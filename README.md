@@ -43,7 +43,7 @@
  
  
  
-<h2> Projects <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Projects <img src='https://github.com/MoizMajid96/MoizMajid96/blob/main/images/concept2.gif' width="100px"> </h2>
 <code><a href="http://venuec.citizenexpress.pk/"> <img  height="100" width="180"
 src="https://raw.githubusercontent.com/ameerhamza006/ameerhamza006/main/porfolio/venuce.JPG"></a></code>
 <code><a href="https://check.silver-ox.com/"> <img height="100" width="180"
